@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Tic_Tac_Toe_coders_Cave" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/white</item>
+         <item name="colorPrimaryVariant">@color/white</item>
+    </style>
+
+    <style name="Theme.Tic_Tac_Toe_coders_Cave" parent="Base.Theme.Tic_Tac_Toe_coders_Cave" />
+</resources>
